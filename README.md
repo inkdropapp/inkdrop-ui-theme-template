@@ -1,13 +1,9 @@
-# Template for Inkdrop UI Theme
+# Default Light UI Theme for Inkdrop
 
-Inkdrop's UI elements are styled based on [Semantic UI](http://semantic-ui.com/).
-It's mostly common in customizing the theme with it, so [their documentation](http://learnsemantic.com/) is very helpful to get started.
+> [!NOTE]
+> Do not fork this repository to create your own theme. Please read the documentation linked below.
 
-Read [the documentation](http://doc.inkdrop.info/manual/creating-a-theme) for detailed instructions.
+The default light UI theme for Inkdrop.
 
-## How to build
+Read [the documentation](https://developers.inkdrop.app/guides/create-a-theme) for detailed instructions.
 
-```
-npm install
-gulp build
-```
